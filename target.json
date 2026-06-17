@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "rivkey2",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"\"",
+            "name": "rivkey2_vial"
+        }
+    ]
+}
